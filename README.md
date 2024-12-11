@@ -2,8 +2,14 @@
 
 ## Embedded Canva Design
 
-Below is an embedded Canva design for reference:
+Below is the Canva design linked for reference. Unfortunately, GitHub does not support direct embedding of external content such as iframes in Markdown files. Instead, a preview link can be provided:
 
-<iframe loading="lazy" style="position: relative; width: 100%; height: 600px; max-height: 80vh; border: none; border-radius: 8px; padding: 0; margin: 0; overflow: hidden;" src="https://www.canva.com/design/DAGY6zd8g1U/jZHOnIuudnrzfKkb8vhWuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+### Canva Design Preview
+[View Canva Design](https://www.canva.com/design/DAGY6zd8g1U/jZHOnIuudnrzfKkb8vhWuQ/view?embed)
 
-<a href="https://www.canva.com/design/DAGY6zd8g1U/jZHOnIuudnrzfKkb8vhWuQ/view?utm_content=DAGY6zd8g1U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">First I downloaded and added PHP to my environment</a> by Obak.
+### Steps to Use
+1. Click the link above to open the Canva design.
+2. Explore or interact with the design directly on Canva.
+
+### Note
+First, I downloaded and added PHP to my environment to integrate it effectively. This process was guided by the insights shared by Obak.
