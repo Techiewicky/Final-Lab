@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    text-decoration: underline;
+  }
+  
+  .bookmark-actions button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .edit-button {
+    background-color: #ffc107;
+    color: #212529;
+  }
+  
+  .edit-button:hover {
+    background-color: #e0a800;
+  }
+  
+  .bookmark-actions button:last-child {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .bookmark-actions button:last-child:hover {
+    background-color: #c82333;
+  }
+  
